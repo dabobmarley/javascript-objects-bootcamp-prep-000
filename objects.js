@@ -2,6 +2,6 @@ var playlist = {
   JimiHendrix: 'Little Wing',
   Radiohead: 'Paranoid Android'
 }
-function updatePlaylist(){
+function updatePlaylist(playlist, artistName, songTitle){
   
 }
