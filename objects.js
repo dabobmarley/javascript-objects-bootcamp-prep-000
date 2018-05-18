@@ -3,6 +3,6 @@ var playlist = {
   Radiohead: 'Paranoid Android'
 }
 function updatePlaylist(playlist, artistName, songTitle){
- play;ost[artistName] = songTitle;
+ playlist[artistName] = songTitle;
  return playlist
 }
