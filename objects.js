@@ -3,5 +3,6 @@ var playlist = {
   Radiohead: 'Paranoid Android'
 }
 function updatePlaylist(playlist, artistName, songTitle){
-  return Object.assign({}, ${artistName}, ${songTitle});  
+ play;ost[artistName] = songTitle;
+ return playlist
 }
